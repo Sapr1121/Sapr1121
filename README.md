@@ -68,6 +68,12 @@
   
 <a href="mailto:sapr262004@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white />
+
+<a href="https://www.linkedin.com/in/sebastianapr26/" target="_blank">
+<img src=https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white />
+
+
+
   
 
 
