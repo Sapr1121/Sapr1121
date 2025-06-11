@@ -17,9 +17,30 @@
   </em> 
   <br>
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+<div align="center" style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); padding: 30px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+  <h2 style="color: #ffffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🛡️ Mis insignias de Ciberseguridad</h2>
+
+  <table style="border-spacing: 20px;">
+    <tr>
+      <td align="center">
+        <a href="https://www.credly.com/badges/8cdbcb33-757b-4717-a51e-647fe6bb5fca" target="_blank">
+          <img src="https://images.credly.com/size/340x340/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" alt="TryHackMe: Web Fundamentals" width="120" style="border-radius: 15px;">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/org/cisco/badge/networking-essentials" target="_blank">
+          <img src="https://images.credly.com/size/340x340/images/d7f73336-9adb-4833-a602-761837a33ba3/NetworkingEssentials-01.png" alt="Cisco: Networking Essentials" width="120" style="border-radius: 15px;">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/org/cisco/badge/network-technician-career-path" target="_blank">
+          <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Cisco: Network Technician Career Path" width="120" style="border-radius: 15px;">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
   
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
