@@ -14,28 +14,28 @@
   </em> 
   <br>
 
-<div align="center" style="background: linear-gradient(to right, #0f2027, #203a43, #2c5364); padding: 30px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
-  <h2 style="color: #ffffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🛡️ Mis insignias de Ciberseguridad</h2>
 
-  <table style="border-spacing: 20px;">
-    <tr>
-      <td align="center">
-        <a href="https://www.credly.com/badges/8cdbcb33-757b-4717-a51e-647fe6bb5fca" target="_blank">
-          <img src="https://images.credly.com/size/340x340/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" alt="TryHackMe: Web Fundamentals" width="120" style="border-radius: 15px;">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.credly.com/org/cisco/badge/networking-essentials" target="_blank">
-          <img src="https://images.credly.com/size/340x340/images/d7f73336-9adb-4833-a602-761837a33ba3/NetworkingEssentials-01.png" alt="Cisco: Networking Essentials" width="120" style="border-radius: 15px;">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.credly.com/org/cisco/badge/network-technician-career-path" target="_blank">
-          <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Cisco: Network Technician Career Path" width="120" style="border-radius: 15px;">
-        </a>
-      </td>
-    </tr>
-  </table>
+
+
+
+<!-- Contenedor con fondo animado -->
+<div align="center" style="background-image: url('https://i.pinimg.com/originals/6b/09/4c/6b094cc3b0d61d9f9a534d5768efea97.gif'); background-size: cover; background-position: center; padding: 40px; border-radius: 15px;">
+
+  <!-- Título -->
+  <h2 style="color: white; font-family: Arial, sans-serif;">🛡️ My Cybersecurity Badges</h2>
+
+  <!-- Insignias -->
+  <p>
+    <a href="https://www.credly.com/badges/8cdbcb33-757b-4717-a51e-647fe6bb5fca" target="_blank">
+      <img src="https://images.credly.com/size/340x340/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" alt="TryHackMe: Web Fundamentals" width="120" style="margin: 10px; border-radius: 12px;">
+    </a>
+    <a href="https://www.credly.com/org/cisco/badge/networking-essentials" target="_blank">
+      <img src="https://images.credly.com/size/340x340/images/d7f73336-9adb-4833-a602-761837a33ba3/NetworkingEssentials-01.png" alt="Cisco: Networking Essentials" width="120" style="margin: 10px; border-radius: 12px;">
+    </a>
+    <a href="https://www.credly.com/org/cisco/badge/network-technician-career-path" target="_blank">
+      <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Cisco: Network Technician Career Path" width="120" style="margin: 10px; border-radius: 12px;">
+    </a>
+  </p>
 </div>
 
   
@@ -56,8 +56,8 @@
   </p>
 
 
-![Static Badge](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Numpy-%23013243?logo=numpy&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Metasploit-blue?logo=metasploit&color=white)
+![Static Badge](https://img.shields.io/badge/BurpSuite-blue?logo=burpsuite&color=white)
 ![Static Badge](https://img.shields.io/badge/Pandas-%23150458?logo=pandas&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Jupyter-white?logo=jupyter)
 ![Static Badge](https://img.shields.io/badge/SqLite-blue?logo=sqlite)
@@ -76,23 +76,24 @@
 
 <br>
 
-
+<p align="center">
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Contact us...***
 
-<a href="https://www.instagram.com/sebas.26.1/" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-purple?logo=Instagram&logoColor=white />
-  
-<a href="https://x.com/Sapr_wolf?t=y82TxAcLIT8SvQVKxqZ8Zw&s=09" target="_blank">
-<img src=https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white />
-  
-<a href="mailto:sapr262004@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white />
-
-<a href="https://www.linkedin.com/in/sebastianapr26/" target="_blank">
-<img src=https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white />
-
-
+<p align="center">
+  <a href="https://www.instagram.com/sebas.26.1/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/Sapr_wolf?t=y82TxAcLIT8SvQVKxqZ8Zw&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:sapr262004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sebastianapr26/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
   
 
