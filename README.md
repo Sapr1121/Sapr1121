@@ -4,16 +4,13 @@
 
 
 
-<div align="center">
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px align="center"></picture> 
- 
-</div>
+
 
 <p align="center">
 
 
   <em>
-    Software Engineering student at Universidad Tecnológica de Pereira(UTP), with a strong interest in artificial intelligence and Neuroinformatics. I am seeking opportunities to apply and develop my skills in challenging projects within the AI field. Committed to continuous learning and creative problem-solving.
+    Software Engineering student at Universidad Tecnológica de Pereira (UTP), with a growing passion for Ethical Hacking, Red Team operations, and cybersecurity. I have experience in controlled environments performing basic exploitations using Metasploit and privilege escalation on Windows systems. I'm currently deepening my knowledge through hands-on practice and specialized training. I am committed to offensive security, continuous learning, and contributing to more secure digital infrastructures.
   </em> 
   <br>
 
@@ -46,9 +43,11 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Currently exploring the field of Deep Learning to develop deep learning models. <br>
-✔ In the process of acquiring skills in Neuroinformatics to better understand the relationship between technology and the human mind.<br>
-✔ Committed to contributing to open-source projects related to artificial intelligence and data science.<br>
+✔ Currently exploring Red Team techniques with a focus on real-world offensive security scenarios.<br>
+✔ Gaining practical experience in penetration testing using tools like Metasploit.<br>
+✔ Learning and practicing Man-In-The-Middle (MITM) attacks, scripting in Python for automation, and developing custom malware and keyloggers for ethical use.<br>
+✔ Studying persistence mechanisms such as advanced backdoors and evasion of antivirus protections.<br>
+✔ Interested in brute-force attack strategies and privilege escalation techniques.<br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
