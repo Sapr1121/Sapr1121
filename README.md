@@ -55,19 +55,15 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1EA900&center=true&vCenter=true&random=false&width=435&lines=Java;Jupyter;HTML;CSS;Sqlite;Matplotlib;Pandas;Numpy;Javascript;TensorFlow" alt="Typing SVG" /></a>
   </p>
 
-
+![Static Badge](https://img.shields.io/badge/Linux-white?logo=Linux&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Kali%20Linux-white?logo=Kali%20Linux&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/Metasploit-blue?logo=metasploit&color=white)
 ![Static Badge](https://img.shields.io/badge/BurpSuite-blue?logo=burpsuite&color=white)
-![Static Badge](https://img.shields.io/badge/Pandas-%23150458?logo=pandas&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Jupyter-white?logo=jupyter)
-![Static Badge](https://img.shields.io/badge/SqLite-blue?logo=sqlite)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white)
-![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CSS-blue?logo=CSS3)
-![Static Badge](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/VisualStudioCode-%23007ACC?logo=visualstudiocode&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Notion-black?logo=notion&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Rust-white?logo=rust&logoColor=white&color=orange)
+![Static Badge](https://img.shields.io/badge/Neovim-white?logo=Neovim&logoColor=white&color=%2357A143)
+![Static Badge](https://img.shields.io/badge/Bash-white?logo=gnubash&logoColor=white&color=%23000000)
 
 
 
